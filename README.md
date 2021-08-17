@@ -36,6 +36,7 @@
   <a href="mailto:amaraldemelloh@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="contact:Faggot#9707" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-amaral-de-mello/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
   
-![Snake animation](https://github.com/amaraldemelloh/amaraldemelloh/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/amaraldemelloh/amaraldemelloh/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
