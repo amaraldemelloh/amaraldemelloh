@@ -10,12 +10,12 @@
   </li>
   <li>
     <p>
-      📖 Meu atual foco é Front-end e depois de dominálo pretendo partir para Back-end, para que eu me torne Full-stack.
+      📖 Meu atual foco é Front-end e depois de dominá-lo pretendo partir para Back-end, para que eu me torne Full-stack.
     </p>
   </li>
   <li>
     <p>
-      🍃 Espero que meus objetivos, e os seus, estejam corretos e se ajustem conforme a caminhada, até mais!
+      🍃 Espero que meus objetivos, e os seus, estejam firmes e se ajustem bem conforme a caminhada, até mais!
     </p>
    </li>
  </ul>
