@@ -38,10 +38,12 @@ No momento dou ênfase nos meus estudos de programação. Pretendo trabalhar com
   <img width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldemelloh&layout=compact" />
 </a> 
 
+![Snake animation](https://github.com/amaraldemelloh/amaraldemelloh/blob/output/github-contribution-grid-snake.svg)
+
 # 
 
 > É isso aí galera! Vamos continuar codando, ainda há muito conhecimento a ser explorado. Me siga nas redes sociais abaixo!
 
-<a href='https://www.linkedin.com/in/henrique-amaral-de-mello/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='50px;'/></a>
+<a href='https://www.linkedin.com/in/henrique-amaral-de-mello/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width='100px'/></a>
 
 Discord: Fraggot#8559
