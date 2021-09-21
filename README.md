@@ -1,28 +1,47 @@
-### Olá. Seja bem-vindo ao meu README de apresentação!
+# Só de passagem?
 
-##
+Então da uma olhada nesse README.md!
 
-#### ✨ Pois é, eu ainda não trabalho com isso, na verdade enxergo como o início de uma longa caminhada...
-#### 📖 Atualmente o foco é Front-end, achei que seria melhor começar a codar a partir de HTML e CSS.
-#### 🍃 Confio que nossos projetos darão certo, eu e você somos incríveis de verdade...
+![Banner](https://imgur.com/GNzfAZq.png)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
- <div>
-  <a href="https://github.com/amaraldemelloh">
-  <hr>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=amaraldemelloh&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldemelloh&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-    </div>
-  <hr>
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-<img align="right" alt="chicken.nugget" width="100px" padding-top="-100px" src="https://cdn.discordapp.com/attachments/879708373497577537/884505267465748510/5m2jtf.gif">
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  
-<div>
-  <a href="https://www.linkedin.com/in/henrique-amaral-de-mello/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/amaraldemelloh/amaraldemelloh/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+## Henrique Amaral De Mello
+> 14 anos 
+>
+> Dev iniciante
+>
+> Apaixonado por sites ❤
+
+No momento dou ênfase nos meus estudos de programação. Pretendo trabalhar com Front-end, mas veremos o que me aguarda!
+
+## Linguagens
+
+| Estudando |
+|-----------|
+- [X] HTML5
+- [X] CSS3
+- [X] JavaScript
+- [X] Algoritmos
+
+| Interesses |
+|------------|
+- [X] Vue.js
+- [X] React.js
+- [X] Node.js
+- [X] NPM
+
+## Status
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width='400px' src="https://github-readme-stats.vercel.app/api?username=amaraldemelloh&show_icons&count_private=true&theme=" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldemelloh&layout=compact" />
+</a> 
+
+# 
+
+> É isso aí galera! Vamos continuar codando, ainda há muito conhecimento a ser explorado. Me siga nas redes sociais abaixo!
+
+<a href='https://www.linkedin.com/in/henrique-amaral-de-mello/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='50px;'/></a>
+
+Discord: Fraggot#8559
