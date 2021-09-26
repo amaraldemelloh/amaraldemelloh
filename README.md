@@ -46,4 +46,4 @@ No momento dou ênfase nos meus estudos de programação. Pretendo trabalhar com
 
 <a href='https://www.linkedin.com/in/henrique-amaral-de-mello/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width='100px'/></a>
 
-Discord: Fraggot#8559
+Discord: amaral#8559
