@@ -47,5 +47,3 @@ No momento dou ênfase nos meus estudos de programação. Pretendo trabalhar com
 > Me siga nas redes sociais abaixo!
 
 <a href='https://www.linkedin.com/in/henrique-amaral-de-mello/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='50px'/></a>
-
-Discord: amaral#8559
