@@ -1,11 +1,7 @@
 # Bem-vindo!
 
 ### Henrique Amaral De Mello
-> 15 anos
-> 
-> Web developer
-> 
-> Apaixonado por sites :heart:
+> 15 anos - Web developer
 
 
 #
